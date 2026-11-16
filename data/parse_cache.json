@@ -1,0 +1,390 @@
+{
+ "gemini-3.5-flash:RPT-09:565b011263c46335ddf992ad3217cca2": {
+  "team": "Ashford",
+  "formation": {
+   "shape": "4-3-3",
+   "note": ""
+  },
+  "strengths": [
+   "fast counter-attacks through the wide forwards"
+  ],
+  "weaknesses": [
+   "pressing line is easily split by one-twos"
+  ],
+  "key_players": [],
+  "set_pieces": [
+   {
+    "kind": "corner",
+    "pattern": "near post",
+    "detail": "70% of corners are whipped to the near post."
+   }
+  ]
+ },
+ "gemini-3.5-flash:RPT-01:eb886fcb48c2a4946405de0a39c6dcb8": {
+  "team": "Ashford",
+  "formation": {
+   "shape": "4-3-3",
+   "note": "drops into a 4-5-1 mid block without the ball"
+  },
+  "strengths": [
+   "fast counter-attacks through the wide forwards",
+   "high pressing after losing the ball"
+  ],
+  "weaknesses": [
+   "centre-backs are slow on the turn against balls in behind",
+   "right-back leaves space when the team presses high"
+  ],
+  "key_players": [
+   {
+    "name": "Tomas Reyes",
+    "pos": "LW",
+    "attr": "pace",
+    "rating": 90,
+    "note": "cuts inside onto his right foot"
+   },
+   {
+    "name": "Sam Okoye",
+    "pos": "ST",
+    "attr": "finishing",
+    "rating": 84,
+    "note": "clinical in the box"
+   }
+  ],
+  "set_pieces": [
+   {
+    "kind": "corner",
+    "pattern": "near post",
+    "detail": "70% of corners are whipped to the near post"
+   }
+  ]
+ },
+ "gemini-3.5-flash:RPT-10:289ae86161b8f227ca2b5cac9abf47c3": {
+  "team": "Brightwell",
+  "formation": {
+   "shape": "4-4-2",
+   "note": ""
+  },
+  "strengths": [
+   "compact defensive block"
+  ],
+  "weaknesses": [
+   "midfield two is overrun in transition"
+  ],
+  "key_players": [],
+  "set_pieces": [
+   {
+    "kind": "free kick",
+    "pattern": "short routine",
+    "detail": "short free-kick routine to the edge of the box before a driven shot"
+   }
+  ]
+ },
+ "gemini-3.5-flash:RPT-02:65da6c12a25efd030e2c3c311232285e": {
+  "team": "Brightwell",
+  "formation": {
+   "shape": "4-4-2",
+   "note": "flat banks of four, compact"
+  },
+  "strengths": [
+   "compact defensive block",
+   "crosses from both flanks"
+  ],
+  "weaknesses": [
+   "full-backs are poor at tracking late runs from midfield",
+   "slow to shift play when pressed"
+  ],
+  "key_players": [
+   {
+    "name": "Luca Berg",
+    "pos": "CAM",
+    "attr": "passing",
+    "rating": 88,
+    "note": "dictates tempo between the lines"
+   },
+   {
+    "name": "Ivo Petrov",
+    "pos": "ST",
+    "attr": "aerial",
+    "rating": 86,
+    "note": "target man for crosses"
+   }
+  ],
+  "set_pieces": [
+   {
+    "kind": "free kick",
+    "pattern": "edge of the box",
+    "detail": "short free-kick routine to the edge of the box before a driven shot"
+   }
+  ]
+ },
+ "gemini-3.5-flash:RPT-11:bd58a932035391de8c2ac888016d8d04": {
+  "team": "Cragmoor",
+  "formation": {
+   "shape": "3-5-2",
+   "note": ""
+  },
+  "strengths": [
+   "wing-backs provide width"
+  ],
+  "weaknesses": [
+   "centre-back trio loses shape when the ball is switched"
+  ],
+  "key_players": [],
+  "set_pieces": [
+   {
+    "kind": "throw-in",
+    "pattern": "long throw",
+    "detail": "long throw-ins into the six-yard box from the right side"
+   }
+  ]
+ },
+ "gemini-3.5-flash:RPT-03:55a2e40352ec03042cb8439f62b2a9da": {
+  "team": "Cragmoor",
+  "formation": {
+   "shape": "3-5-2",
+   "note": "wing-backs push up to form a front five"
+  },
+  "strengths": [
+   "wing-backs provide width",
+   "strong in aerial duels"
+  ],
+  "weaknesses": [
+   "space behind the wing-backs on transitions",
+   "goalkeeper hesitates on crosses"
+  ],
+  "key_players": [
+   {
+    "name": "Dmitri Volkov",
+    "pos": "RWB",
+    "attr": "pace",
+    "rating": 85,
+    "note": "relentless runs down the right"
+   },
+   {
+    "name": "Karim Haddad",
+    "pos": "CB",
+    "attr": "aerial",
+    "rating": 88,
+    "note": "wins most headers"
+   }
+  ],
+  "set_pieces": [
+   {
+    "kind": "throw-in",
+    "pattern": "long throw",
+    "detail": "long throw-ins into the six-yard box from the right side"
+   }
+  ]
+ },
+ "gemini-3.5-flash:RPT-12:ad5f5f758fc87befe3e568cae807d42c": {
+  "team": "Dunmere",
+  "formation": {
+   "shape": "4-2-3-1",
+   "note": ""
+  },
+  "strengths": [
+   "possession through the double pivot"
+  ],
+  "weaknesses": [
+   "full-backs rarely overlap"
+  ],
+  "key_players": [],
+  "set_pieces": [
+   {
+    "kind": "corner",
+    "pattern": "inswinger to far post",
+    "detail": "inswinging corners targeted at the far post"
+   }
+  ]
+ },
+ "gemini-3.5-flash:RPT-04:dfbaa7b8b29a04887c54c1610e1ec8fb": {
+  "team": "Dunmere",
+  "formation": {
+   "shape": "4-2-3-1",
+   "note": "double pivot shields the back four"
+  },
+  "strengths": [
+   "possession through the double pivot",
+   "creative number ten"
+  ],
+  "weaknesses": [
+   "double pivot is dragged out of position by the press",
+   "slow to reorganise after losing possession"
+  ],
+  "key_players": [
+   {
+    "name": "Marco Silva",
+    "pos": "CAM",
+    "attr": "dribbling",
+    "rating": 89,
+    "note": "beats players in tight spaces"
+   },
+   {
+    "name": "Ben Clarke",
+    "pos": "DM",
+    "attr": "tackling",
+    "rating": 82,
+    "note": "breaks up play"
+   }
+  ],
+  "set_pieces": [
+   {
+    "kind": "corner",
+    "pattern": "inswinger to far post",
+    "detail": "inswinging corners targeted at the far post"
+   }
+  ]
+ },
+ "gemini-3.5-flash:RPT-05:fbe9b050a720eb5de15d96fc8ef4e616": {
+  "team": "Eastvale",
+  "formation": {
+   "shape": "5-4-1",
+   "note": "deep low block"
+  },
+  "strengths": [
+   "disciplined low block",
+   "dangerous on the break through a lone striker"
+  ],
+  "weaknesses": [
+   "lacks creativity in build-up",
+   "tires after the 70th minute"
+  ],
+  "key_players": [
+   {
+    "name": "Ahmed Nasser",
+    "pos": "ST",
+    "attr": "pace",
+    "rating": 87,
+    "note": "runs the channels"
+   },
+   {
+    "name": "Piotr Zielinski",
+    "pos": "CB",
+    "attr": "aerial",
+    "rating": 83,
+    "note": "commands the box"
+   }
+  ],
+  "set_pieces": [
+   {
+    "kind": "free kick",
+    "pattern": "wall-and-run",
+    "detail": "indirect free kicks played into a runner peeling off the wall"
+   }
+  ]
+ },
+ "gemini-3.5-flash:RPT-06:57d7b61986b518fb40a8187539463c9a": {
+  "team": "Fairholt",
+  "formation": {
+   "shape": "4-3-3",
+   "note": "very high defensive line"
+  },
+  "strengths": [
+   "high line compresses the pitch",
+   "full-backs overlap constantly"
+  ],
+  "weaknesses": [
+   "high line is vulnerable to through balls",
+   "weak in aerial duels at the back"
+  ],
+  "key_players": [
+   {
+    "name": "Jonas Weber",
+    "pos": "RW",
+    "attr": "dribbling",
+    "rating": 86,
+    "note": "takes on his full-back every time"
+   },
+   {
+    "name": "Eli Mensah",
+    "pos": "CM",
+    "attr": "passing",
+    "rating": 80,
+    "note": "switches play quickly"
+   }
+  ],
+  "set_pieces": [
+   {
+    "kind": "corner",
+    "pattern": "short corner",
+    "detail": "short corner to a player on the edge of the area."
+   }
+  ]
+ },
+ "gemini-3.5-flash:RPT-07:4f65f2e00fa9bfbd718a73a0ce3d878e": {
+  "team": "Glenrock",
+  "formation": {
+   "shape": "4-1-4-1",
+   "note": "single pivot with a flat midfield four"
+  },
+  "strengths": [
+   "strong pressing triggers",
+   "good set-piece delivery"
+  ],
+  "weaknesses": [
+   "lone holding midfielder is exposed when bypassed",
+   "left-back struggles against pace"
+  ],
+  "key_players": [
+   {
+    "name": "Noah Park",
+    "pos": "DM",
+    "attr": "tackling",
+    "rating": 85,
+    "note": "screens the back four"
+   },
+   {
+    "name": "Raul Ortega",
+    "pos": "LB",
+    "attr": "pace",
+    "rating": 70,
+    "note": "adds width but is beaten for speed"
+   }
+  ],
+  "set_pieces": [
+   {
+    "kind": "corner",
+    "pattern": "decoy runs",
+    "detail": "decoy runs at the near post to free a header at the penalty spot"
+   }
+  ]
+ },
+ "gemini-3.5-flash:RPT-08:eef6c294fbb0cbf16b6937019f29f136": {
+  "team": "Harrowgate",
+  "formation": {
+   "shape": "3-4-3",
+   "note": "front three interchange positions"
+  },
+  "strengths": [
+   "front three interchange positions",
+   "quick ball circulation"
+  ],
+  "weaknesses": [
+   "back three is stretched by wide overloads",
+   "poor discipline with many fouls near the box"
+  ],
+  "key_players": [
+   {
+    "name": "Idris Kamara",
+    "pos": "LW",
+    "attr": "dribbling",
+    "rating": 88,
+    "note": "drifts inside from the left"
+   },
+   {
+    "name": "Henrik Larsen",
+    "pos": "CB",
+    "attr": "tackling",
+    "rating": 81,
+    "note": "aggressive stepping out"
+   }
+  ],
+  "set_pieces": [
+   {
+    "kind": "free kick",
+    "pattern": "direct shot",
+    "detail": "direct free kicks from the left of the area taken by Kamara"
+   }
+  ]
+ }
+}

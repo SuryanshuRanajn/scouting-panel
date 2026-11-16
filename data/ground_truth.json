@@ -1,0 +1,194 @@
+[
+ {
+  "team": "Ashford",
+  "type": "formation",
+  "phrase": "4-3-3",
+  "source": "RPT-01"
+ },
+ {
+  "team": "Ashford",
+  "type": "weakness",
+  "phrase": "slow on the turn",
+  "source": "RPT-01"
+ },
+ {
+  "team": "Ashford",
+  "type": "key_player",
+  "phrase": "Tomas Reyes",
+  "source": "RPT-01"
+ },
+ {
+  "team": "Ashford",
+  "type": "set_piece",
+  "phrase": "near post",
+  "source": "RPT-01"
+ },
+ {
+  "team": "Brightwell",
+  "type": "formation",
+  "phrase": "4-4-2",
+  "source": "RPT-02"
+ },
+ {
+  "team": "Brightwell",
+  "type": "weakness",
+  "phrase": "tracking late runs",
+  "source": "RPT-02"
+ },
+ {
+  "team": "Brightwell",
+  "type": "key_player",
+  "phrase": "Luca Berg",
+  "source": "RPT-02"
+ },
+ {
+  "team": "Brightwell",
+  "type": "set_piece",
+  "phrase": "short routine",
+  "source": "RPT-02"
+ },
+ {
+  "team": "Cragmoor",
+  "type": "formation",
+  "phrase": "3-5-2",
+  "source": "RPT-03"
+ },
+ {
+  "team": "Cragmoor",
+  "type": "weakness",
+  "phrase": "space behind the wing-backs",
+  "source": "RPT-03"
+ },
+ {
+  "team": "Cragmoor",
+  "type": "key_player",
+  "phrase": "Dmitri Volkov",
+  "source": "RPT-03"
+ },
+ {
+  "team": "Cragmoor",
+  "type": "set_piece",
+  "phrase": "long throw",
+  "source": "RPT-03"
+ },
+ {
+  "team": "Dunmere",
+  "type": "formation",
+  "phrase": "4-2-3-1",
+  "source": "RPT-04"
+ },
+ {
+  "team": "Dunmere",
+  "type": "weakness",
+  "phrase": "dragged out of position",
+  "source": "RPT-04"
+ },
+ {
+  "team": "Dunmere",
+  "type": "key_player",
+  "phrase": "Marco Silva",
+  "source": "RPT-04"
+ },
+ {
+  "team": "Dunmere",
+  "type": "set_piece",
+  "phrase": "inswinger to far post",
+  "source": "RPT-04"
+ },
+ {
+  "team": "Eastvale",
+  "type": "formation",
+  "phrase": "5-4-1",
+  "source": "RPT-05"
+ },
+ {
+  "team": "Eastvale",
+  "type": "weakness",
+  "phrase": "lacks creativity",
+  "source": "RPT-05"
+ },
+ {
+  "team": "Eastvale",
+  "type": "key_player",
+  "phrase": "Ahmed Nasser",
+  "source": "RPT-05"
+ },
+ {
+  "team": "Eastvale",
+  "type": "set_piece",
+  "phrase": "wall-and-run",
+  "source": "RPT-05"
+ },
+ {
+  "team": "Fairholt",
+  "type": "formation",
+  "phrase": "4-3-3",
+  "source": "RPT-06"
+ },
+ {
+  "team": "Fairholt",
+  "type": "weakness",
+  "phrase": "through balls",
+  "source": "RPT-06"
+ },
+ {
+  "team": "Fairholt",
+  "type": "key_player",
+  "phrase": "Jonas Weber",
+  "source": "RPT-06"
+ },
+ {
+  "team": "Fairholt",
+  "type": "set_piece",
+  "phrase": "short corner",
+  "source": "RPT-06"
+ },
+ {
+  "team": "Glenrock",
+  "type": "formation",
+  "phrase": "4-1-4-1",
+  "source": "RPT-07"
+ },
+ {
+  "team": "Glenrock",
+  "type": "weakness",
+  "phrase": "exposed when bypassed",
+  "source": "RPT-07"
+ },
+ {
+  "team": "Glenrock",
+  "type": "key_player",
+  "phrase": "Noah Park",
+  "source": "RPT-07"
+ },
+ {
+  "team": "Glenrock",
+  "type": "set_piece",
+  "phrase": "decoy runs",
+  "source": "RPT-07"
+ },
+ {
+  "team": "Harrowgate",
+  "type": "formation",
+  "phrase": "3-4-3",
+  "source": "RPT-08"
+ },
+ {
+  "team": "Harrowgate",
+  "type": "weakness",
+  "phrase": "stretched by wide overloads",
+  "source": "RPT-08"
+ },
+ {
+  "team": "Harrowgate",
+  "type": "key_player",
+  "phrase": "Idris Kamara",
+  "source": "RPT-08"
+ },
+ {
+  "team": "Harrowgate",
+  "type": "set_piece",
+  "phrase": "direct shot",
+  "source": "RPT-08"
+ }
+]

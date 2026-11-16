@@ -1,0 +1,158 @@
+{
+ "home": {
+  "RB": {
+   "name": "Arjun Rao",
+   "pace": 74,
+   "aerial": 70,
+   "tackling": 80,
+   "dribbling": 65,
+   "passing": 70,
+   "finishing": 40
+  },
+  "LB": {
+   "name": "Imran Khan",
+   "pace": 82,
+   "aerial": 68,
+   "tackling": 76,
+   "dribbling": 70,
+   "passing": 72,
+   "finishing": 45
+  },
+  "CB": {
+   "name": "Dev Mehta",
+   "pace": 66,
+   "aerial": 86,
+   "tackling": 84,
+   "dribbling": 50,
+   "passing": 65,
+   "finishing": 35
+  },
+  "DM": {
+   "name": "Karan Bose",
+   "pace": 68,
+   "aerial": 74,
+   "tackling": 83,
+   "dribbling": 62,
+   "passing": 79,
+   "finishing": 50
+  },
+  "CAM": {
+   "name": "Vikram Joshi",
+   "pace": 75,
+   "aerial": 60,
+   "tackling": 60,
+   "dribbling": 85,
+   "passing": 87,
+   "finishing": 72
+  },
+  "RW": {
+   "name": "Sahil Verma",
+   "pace": 88,
+   "aerial": 55,
+   "tackling": 50,
+   "dribbling": 84,
+   "passing": 74,
+   "finishing": 70
+  },
+  "LW": {
+   "name": "Yash Thakur",
+   "pace": 85,
+   "aerial": 52,
+   "tackling": 48,
+   "dribbling": 82,
+   "passing": 72,
+   "finishing": 71
+  },
+  "ST": {
+   "name": "Rohit Nair",
+   "pace": 80,
+   "aerial": 78,
+   "tackling": 40,
+   "dribbling": 74,
+   "passing": 65,
+   "finishing": 86
+  }
+ },
+ "opp": {
+  "Tomas Reyes": {
+   "pos": "LW",
+   "attr": "pace",
+   "rating": 90
+  },
+  "Sam Okoye": {
+   "pos": "ST",
+   "attr": "finishing",
+   "rating": 84
+  },
+  "Luca Berg": {
+   "pos": "CAM",
+   "attr": "passing",
+   "rating": 88
+  },
+  "Ivo Petrov": {
+   "pos": "ST",
+   "attr": "aerial",
+   "rating": 86
+  },
+  "Dmitri Volkov": {
+   "pos": "RWB",
+   "attr": "pace",
+   "rating": 85
+  },
+  "Karim Haddad": {
+   "pos": "CB",
+   "attr": "aerial",
+   "rating": 88
+  },
+  "Marco Silva": {
+   "pos": "CAM",
+   "attr": "dribbling",
+   "rating": 89
+  },
+  "Ben Clarke": {
+   "pos": "DM",
+   "attr": "tackling",
+   "rating": 82
+  },
+  "Ahmed Nasser": {
+   "pos": "ST",
+   "attr": "pace",
+   "rating": 87
+  },
+  "Piotr Zielinski": {
+   "pos": "CB",
+   "attr": "aerial",
+   "rating": 83
+  },
+  "Jonas Weber": {
+   "pos": "RW",
+   "attr": "dribbling",
+   "rating": 86
+  },
+  "Eli Mensah": {
+   "pos": "CM",
+   "attr": "passing",
+   "rating": 80
+  },
+  "Noah Park": {
+   "pos": "DM",
+   "attr": "tackling",
+   "rating": 85
+  },
+  "Raul Ortega": {
+   "pos": "LB",
+   "attr": "pace",
+   "rating": 70
+  },
+  "Idris Kamara": {
+   "pos": "LW",
+   "attr": "dribbling",
+   "rating": 88
+  },
+  "Henrik Larsen": {
+   "pos": "CB",
+   "attr": "tackling",
+   "rating": 81
+  }
+ }
+}

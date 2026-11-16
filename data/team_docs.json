@@ -1,0 +1,30 @@
+{
+ "Ashford": [
+  "RPT-01",
+  "RPT-09"
+ ],
+ "Brightwell": [
+  "RPT-02",
+  "RPT-10"
+ ],
+ "Cragmoor": [
+  "RPT-03",
+  "RPT-11"
+ ],
+ "Dunmere": [
+  "RPT-04",
+  "RPT-12"
+ ],
+ "Eastvale": [
+  "RPT-05"
+ ],
+ "Fairholt": [
+  "RPT-06"
+ ],
+ "Glenrock": [
+  "RPT-07"
+ ],
+ "Harrowgate": [
+  "RPT-08"
+ ]
+}
